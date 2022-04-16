@@ -1,0 +1,56 @@
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.exe.config
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.exe
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.pdb
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\Guna.UI2.dll
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csproj.ResolveComReference.cache
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2._0.MPlayer.resources
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2._0.Properties.Resources.resources
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csproj.GenerateResource.Cache
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.exe
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.pdb
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\Guna.UI.dll
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\Tabulate.NET.dll
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Luca\Documents\Visual Studio 2012\Projects\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.exe.config
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csproj.ResolveComReference.cache
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.exe
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.pdb
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.exe
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.pdb
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\Tabulate.NET.dll
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2._0.MPlayer.resources
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2._0.Properties.Resources.resources
+C:\Users\Luca\Desktop\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csproj.GenerateResource.Cache
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.exe.config
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csproj.ResolveComReference.cache
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.exe
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.pdb
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.exe
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\MPlayer2.0.pdb
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\Tabulate.NET.dll
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csprojResolveAssemblyReference.cache
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2._0.MPlayer.resources
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2._0.Properties.Resources.resources
+C:\Users\Luca\Documents\Etudes\Projet\MPlayer2.0\MPlayer2.0\obj\Debug\MPlayer2.0.csproj.GenerateResource.Cache
